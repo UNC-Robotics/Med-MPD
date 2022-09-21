@@ -23,8 +23,6 @@ There are five lungs environments from the Hepatocellular Carcinoma Transarteria
 
 ## Evaluation
 
-## Citing
-
 ## References
 
 * Armato III, Samuel G., et al. "The lung image database consortium (LIDC) and image database resource initiative (IDRI): a completed reference database of lung nodules on CT scans." Medical physics 38.2 (2011): 915-931.
