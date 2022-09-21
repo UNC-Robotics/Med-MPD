@@ -31,7 +31,7 @@ The authors acknowledge the National Cancer Institute and the Foundation for the
 
 ## License
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License ([CC-BY-SA 4.0][6])
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License ([CC-BY-SA 4.0][6]).
 
 [6]: <http://creativecommons.org/licenses/by-sa/4.0/>
 
