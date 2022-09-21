@@ -15,7 +15,7 @@ There are five lungs environments from the Lung Image Database Consortium and Im
 
 ### Liver
 
-There are five lungs environments from the Hepatocellular Carcinoma Transarterial Chemoembolization Segmentation [(HCC-TACE-Seg][2](CC-BY 4.0) image collection from The Cancer Imaging Archive [(TCIA)][2]. Segmentations of the liver, cancer nodules, and blood vessels are provided as part of the data. These segmentations were manually refined using using [3D-Slicer][3] and the vessels were segmented into the hepatic arteries, hepatic veins, and portal vein.
+There are five lungs environments from the Hepatocellular Carcinoma Transarterial Chemoembolization Segmentation [(HCC-TACE-Seg)][2](CC-BY 4.0) image collection from The Cancer Imaging Archive [(TCIA)][2]. Segmentations of the liver, cancer nodules, and blood vessels are provided as part of the data. These segmentations were manually refined using using [3D-Slicer][3] and the vessels were segmented into the hepatic arteries, hepatic veins, and portal vein.
 
 [1]: <https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230229> "HCC-TACE-Seg"
 [2]: <https://www.cancerimagingarchive.net/> "TCIA"
