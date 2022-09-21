@@ -25,6 +25,14 @@ There are five lungs environments from the Hepatocellular Carcinoma Transarteria
 
 ## Citing
 
+## References
+
+1: Armato III, Samuel G., et al. "The lung image database consortium (LIDC) and image database resource initiative (IDRI): a completed reference database of lung nodules on CT scans." Medical physics 38.2 (2011): 915-931.
+
+2: Morshid, Ali, et al. "A machine learning model to predict hepatocellular carcinoma response to transcatheter arterial chemoembolization." Radiology. Artificial intelligence 1.5 (2019).
+
+3: Clark, Kenneth, et al. "The Cancer Imaging Archive (TCIA): maintaining and operating a public information repository." Journal of digital imaging 26.6 (2013): 1045-1057.
+
 ## Acknowledgements
 
 The authors acknowledge the National Cancer Institute and the Foundation for the National Institutes of Health, and their critical role in the creation of the free publicly available LIDC/IDRI Database used in this study.
@@ -33,6 +41,9 @@ The authors acknowledge the National Cancer Institute and the Foundation for the
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License ([CC-BY-SA 4.0][6]).
 
+Any use of this work must also abide by the [terms][7] set by the TCIA.
+
 [6]: <http://creativecommons.org/licenses/by-sa/4.0/>
+[7]: <https://wiki.cancerimagingarchive.net/display/Public/Data+Usage+Policies+and+Restrictions>
 
 
