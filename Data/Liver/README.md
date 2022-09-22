@@ -4,7 +4,7 @@ Within each folder are segmentation files in .nii.gz format. These can easily be
 
 Inside `Utilities/` are a couple helpful scripts for visualizing the data.
 
-The corresponding patient identifier in the LIDC-IDRI dataset for each patient is:
+The corresponding patient identifier in the HCC-TACE-Seg dataset for each patient is:
 * Patient1 - HCC_001
 * Patient2 - HCC_031
 * Patient3 - HCC_057 (environment used in paper figure)
