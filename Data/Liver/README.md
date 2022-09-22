@@ -5,4 +5,4 @@ The corresponding patient identifier in the HCC-TACE-Seg dataset for each patien
 * Patient2 - HCC_031 (environment used in paper figure)
 * Patient3 - HCC_057
 * Patient4 - HCC_079
-* Patient5 - HCC_094 
+* Patient5 - HCC_005 
