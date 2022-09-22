@@ -23,7 +23,7 @@ There are five liver environments from the Hepatocellular Carcinoma Transarteria
 
 ## Usage
 
-Within each folder are segmentation files in .nii.gz format. These can easily be loaded in publicly-available software such as [3D Slicer](https://www.slicer.org/) and then converted or saved in other formats. [NiBabel](https://nipy.org/nibabel/) is another convenient tool for handling different image formats. For each environment, there are text files with [RAS](https://www.slicer.org/wiki/Coordinate_systems) coordinates corresponding to the nodules and a set of 4x4 matrices for variable clinically-motivated start poses for the motion planning problem.
+Within each folder are segmentation files in .nii.gz format. These can easily be loaded in publicly-available software such as [3D Slicer](https://www.slicer.org/) and then converted or saved in other formats. [NiBabel](https://nipy.org/nibabel/) or [SimpleITK](https://pypi.org/project/SimpleITK/) are other convenient tools for working with these types of images. For each environment, there are text files with [RAS](https://www.slicer.org/wiki/Coordinate_systems) coordinates corresponding to the nodules and a set of 4x4 matrices for variable clinically-motivated start poses for the motion planning problem.
 
 Inside `Utilities/` are a couple helpful scripts for programmatically loading the data, converting betweeen RAS and IJK coordinates, and for visualizing the data.
 
