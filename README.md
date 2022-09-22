@@ -1,4 +1,6 @@
-# Overview
+# Medical Motion Planning Dataset (Med-MPD)
+
+## Overview
 
 This repository contains environments for evaluating motion planners and minimally-invasive robot designs.
 
