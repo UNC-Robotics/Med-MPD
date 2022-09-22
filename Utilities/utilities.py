@@ -117,16 +117,13 @@ def open3d_example():
     for i in range(len(puncture_files)):
         ps[i] = np.loadtxt(puncture_files[i])
 
-
     puncture = get_pose_representations(ps, orientation=True)
-
 
     # load the target
     t = np.loadtxt("target.txt")
     T = np.eye(4)
     T[:3,3] = t
     target = get_pose_representations(np.array([T]))
-
 
     # visualize
     o3d.visualization.draw_geometries([airway_ptcld] + puncture + target)
