@@ -23,6 +23,11 @@ There are five liver environments from the Hepatocellular Carcinoma Transarteria
 
 ### Brain :brain:
 
+There are five brain environments from the Healthy MR Database ([LINK][6]). We segmented the blood vessels manually using [3D-Slicer][4], and we used [FastSurfer][7] to segment the brain and all of the brain subregions.
+
+[6]: <https://data.kitware.com/#collection/591086ee8d777f16d01e0724> "HMRD"
+[7]: <https://www.sciencedirect.com/science/article/pii/S1053811920304985> "FS"
+
 ## Usage
 
 Within each folder are segmentation files in .nii.gz format. These can easily be loaded in publicly-available software such as [3D Slicer](https://www.slicer.org/) and then converted or saved in other formats. [NiBabel](https://nipy.org/nibabel/) or [SimpleITK](https://pypi.org/project/SimpleITK/) are other convenient tools for working with these types of images. For each environment, there are text files with [RAS](https://www.slicer.org/wiki/Coordinate_systems) coordinates corresponding to the nodules and a set of 4x4 matrices for variable clinically-motivated start poses for the motion planning problem.
@@ -37,9 +42,15 @@ Inside `Utilities/` are a couple helpful functions for programmatically loading 
 
 * Clark, Kenneth, et al. "The Cancer Imaging Archive (TCIA): maintaining and operating a public information repository." Journal of digital imaging 26.6 (2013): 1045-1057.
 
+* Bullitt E, Zeng D, Gerig G, Aylward S, Joshi S, Smith JK, Lin W, Ewend MG (2005) Vessel tortuosity and brain tumor malignancy: A blinded study. Academic Radiology 12:1232-1240.
+
+* Henschel, Leonie, et al. "Fastsurfer-a fast and accurate deep learning based neuroimaging pipeline." NeuroImage 219 (2020): 117012.
+
 ## Acknowledgements
 
 The authors acknowledge the National Cancer Institute and the Foundation for the National Institutes of Health, and their critical role in the creation of the free publicly available LIDC/IDRI Database used in this study.
+
+The MR brain images from healthy volunteers used in this work were collected and made available by the CASILab at The University of North Carolina at Chapel Hill and were distributed by the MIDAS Data Server at Kitware, Inc.
 
 ## License
 
