@@ -7,5 +7,5 @@ The corresponding patient identifier in the Healthy MR Database for each patient
 * Patient4 - Normal_027
 * Patient5 - Normal_035
 
-The blood vessel segmentations are created using the Magnetic Resonance Angiograpy (MRA) images while the rest of the segmentations are generated using the T1-Flash images. We register the blood vessels to the coordinate space of the T1 image using the Elastix registration toolkit in 3D Slicer ([LINK](https://lassoan.github.io/SlicerSegmentationRecipes/VesselSegmentationBySubtraction/)).
+The blood vessel segmentations are created using the Magnetic Resonance Angiograpy (MRA) images while the rest of the segmentations are created using the T1-Flash images. We register the blood vessels to the coordinate space of the T1 image using the Elastix registration toolkit in 3D Slicer ([LINK](https://lassoan.github.io/SlicerSegmentationRecipes/VesselSegmentationBySubtraction/)).
 
