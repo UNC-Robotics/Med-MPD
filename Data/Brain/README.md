@@ -9,3 +9,5 @@ The corresponding patient identifier in the Healthy MR Database for each patient
 
 The blood vessel segmentations are created using the Magnetic Resonance Angiograpy (MRA) images while the rest of the segmentations are created using the T1-Flash images. We register the blood vessels to the coordinate space of the T1 image using the Elastix registration toolkit in 3D Slicer ([LINK](https://lassoan.github.io/SlicerSegmentationRecipes/VesselSegmentationBySubtraction/)).
 
+The targets in these environments are the globi pallidi in the setting of deep brain stimulation (DBS).
+
