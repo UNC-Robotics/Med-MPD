@@ -54,6 +54,19 @@ The authors acknowledge the National Cancer Institute and the Foundation for the
 
 The MR brain images from healthy volunteers used in this work were collected and made available by the CASILab at The University of North Carolina at Chapel Hill and were distributed by the MIDAS Data Server at Kitware, Inc.
 
+## Citation
+
+If you found our work useful in your work, please consider citing our abstract:
+
+```
+@inproceedings{friedmeddataset,
+  title={A Clinical Dataset for the Evaluation of Motion Planners in Medical Applications},
+  author={Fried, Inbar and Akulian, A Jason and Alterovitz, Ron},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Workshop on Evaluating Motion Planning Performance},
+  year={2022}
+}
+```
+
 ## License
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License ([CC-BY-SA 4.0][6]).
