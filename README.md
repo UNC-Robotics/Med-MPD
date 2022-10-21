@@ -4,6 +4,8 @@
 
 This repository contains environments for evaluating motion planners and minimally-invasive robot designs.
 
+The abstract that describes this work can be found [here](https://arxiv.org/abs/2210.10834).
+
 ## Data
 
 ### Lungs :lungs:
@@ -63,6 +65,7 @@ If you found our work useful in your work, please consider citing our abstract:
   title={A Clinical Dataset for the Evaluation of Motion Planners in Medical Applications},
   author={Fried, Inbar and Akulian, A Jason and Alterovitz, Ron},
   booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Workshop on Evaluating Motion Planning Performance},
+  journal={arXiv preprint arXiv:2210.10834},
   year={2022}
 }
 ```
