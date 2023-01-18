@@ -3,11 +3,11 @@
 ### Image Loading ###
 #####################
 
-def load_image(img_path)
+def load_image(img_path):
     return sitk.ReadImage("{}".format(img_path))
 
 # img : the sitk loaded image (ex. using load_image())
-def img_as_numpy(img)
+def img_as_numpy(img):
     return sitk.GetArrayFromImage(img)
 
 # img : the sitk loaded image (ex. using load_image())
