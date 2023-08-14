@@ -72,11 +72,11 @@ If you found our work useful in your work, please consider citing our abstract:
 
 ## License
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License ([CC-BY-SA 4.0][6]).
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0][6]).
 
 Any use of this work must also abide by the [terms][7] set by the TCIA.
 
-[6]: <http://creativecommons.org/licenses/by-sa/4.0/>
+[6]: <https://creativecommons.org/licenses/by-nc-sa/4.0/>
 [7]: <https://wiki.cancerimagingarchive.net/display/Public/Data+Usage+Policies+and+Restrictions>
 
 
