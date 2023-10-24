@@ -1,5 +1,9 @@
 # Medical Motion Planning Dataset (Med-MPD)
 
+## NOTICE
+
+This work has been extended and its scope broadened. The new active repository is [Med-RAD](https://github.com/UNC-Robotics/Med-RAD).
+
 ## Overview
 
 This repository contains environments for evaluating motion planners and minimally-invasive robot designs.
